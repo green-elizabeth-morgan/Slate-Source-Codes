@@ -1,0 +1,711 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
+  <head>
+    <!-- NAME: ANNOUNCE --><!--[if gte mso 15]>
+        <xml>
+            <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+            </o:OfficeDocumentSettings>
+        </xml>
+        <![endif]--><meta charset="UTF-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title></title>
+    <style type="text/css">p{
+			margin:10px 0;
+			padding:0;
+		}
+		table{
+			border-collapse:collapse;
+		}
+		h1,h2,h3,h4,h5,h6{
+			display:block;
+			margin:0;
+			padding:0;
+		}
+		img,a img{
+			border:0;
+			height:auto;
+			outline:none;
+			text-decoration:none;
+		}
+		body,#bodyTable,#bodyCell{
+			height:100%;
+			margin:0;
+			padding:0;
+			width:100%;
+		}
+		.mcnPreviewText{
+			display:none !important;
+		}
+		#outlook a{
+			padding:0;
+		}
+		img{
+			-ms-interpolation-mode:bicubic;
+		}
+		table{
+			mso-table-lspace:0pt;
+			mso-table-rspace:0pt;
+		}
+		.ReadMsgBody{
+			width:100%;
+		}
+		.ExternalClass{
+			width:100%;
+		}
+		p,a,li,td,blockquote{
+			mso-line-height-rule:exactly;
+		}
+		a[href^=tel],a[href^=sms]{
+			color:inherit;
+			cursor:default;
+			text-decoration:none;
+		}
+		p,a,li,td,body,table,blockquote{
+			-ms-text-size-adjust:100%;
+			-webkit-text-size-adjust:100%;
+		}
+		.ExternalClass,.ExternalClass p,.ExternalClass td,.ExternalClass div,.ExternalClass span,.ExternalClass font{
+			line-height:100%;
+		}
+		a[x-apple-data-detectors]{
+			color:inherit !important;
+			text-decoration:none !important;
+			font-size:inherit !important;
+			font-family:inherit !important;
+			font-weight:inherit !important;
+			line-height:inherit !important;
+		}
+		table[align=left]{
+			float:left;
+		}
+		table[align=right]{
+			float:right;
+		}
+		.templateContainer{
+			max-width:600px !important;
+		}
+		a.mcnButton{
+			display:block;
+		}
+		.mcnImage,.mcnRetinaImage{
+			vertical-align:bottom;
+		}
+		.mcnTextContent{
+			word-break:break-word;
+		}
+		.mcnTextContent img{
+			height:auto !important;
+		}
+		.mcnDividerBlock{
+			table-layout:fixed !important;
+		}
+	/*
+	@tab Page
+	@section Heading 1
+	@style heading 1
+	*/
+		h1{
+			/*@editable*/color:#000000;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:30px;
+			/*@editable*/font-style:normal;
+			/*@editable*/font-weight:bold;
+			/*@editable*/line-height:125%;
+			/*@editable*/letter-spacing:normal;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Page
+	@section Heading 2
+	@style heading 2
+	*/
+		h2{
+			/*@editable*/color:#000000;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:20px;
+			/*@editable*/font-style:normal;
+			/*@editable*/font-weight:bold;
+			/*@editable*/line-height:125%;
+			/*@editable*/letter-spacing:normal;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Page
+	@section Heading 3
+	@style heading 3
+	*/
+		h3{
+			/*@editable*/color:#000000;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:20px;
+			/*@editable*/font-style:italic;
+			/*@editable*/font-weight:bold;
+			/*@editable*/line-height:125%;
+			/*@editable*/letter-spacing:normal;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Page
+	@section Heading 4
+	@style heading 4
+	*/
+		h4{
+			/*@editable*/color:#949494;
+			/*@editable*/font-family:Georgia;
+			/*@editable*/font-size:20px;
+			/*@editable*/font-style:italic;
+			/*@editable*/font-weight:normal;
+			/*@editable*/line-height:125%;
+			/*@editable*/letter-spacing:normal;
+			/*@editable*/text-align:center;
+		}
+	/*
+	@tab Header
+	@section Header Container Style
+	*/
+		#templateHeader{
+			/*@editable*/background-color:#ffffff;
+			/*@editable*/background-image:none;
+			/*@editable*/background-repeat:no-repeat;
+			/*@editable*/background-position:center;
+			/*@editable*/background-size:cover;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+			/*@editable*/padding-top:0;
+			/*@editable*/padding-bottom:0;
+		}
+	/*
+	@tab Header
+	@section Header Interior Style
+	*/
+		.headerContainer{
+			/*@editable*/background-color:transparent;
+			/*@editable*/background-image:none;
+			/*@editable*/background-repeat:no-repeat;
+			/*@editable*/background-position:center;
+			/*@editable*/background-size:cover;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+			/*@editable*/padding-top:0;
+			/*@editable*/padding-bottom:0;
+		}
+	/*
+	@tab Header
+	@section Header Text
+	*/
+		.headerContainer .mcnTextContent,.headerContainer .mcnTextContent p{
+			/*@editable*/color:#000000;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:16px;
+			/*@editable*/line-height:150%;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Header
+	@section Header Link
+	*/
+		.headerContainer .mcnTextContent a,.headerContainer .mcnTextContent p a{
+			/*@editable*/color:#007C89;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:underline;
+		}
+	/*
+	@tab Body
+	@section Body Container Style
+	*/
+		#templateBody{
+			/*@editable*/background-color:#ffffff;
+			/*@editable*/background-image:none;
+			/*@editable*/background-repeat:no-repeat;
+			/*@editable*/background-position:center;
+			/*@editable*/background-size:cover;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+			/*@editable*/padding-top:0;
+			/*@editable*/padding-bottom:0;
+		}
+	/*
+	@tab Body
+	@section Body Interior Style
+	*/
+		.bodyContainer{
+			/*@editable*/background-color:transparent;
+			/*@editable*/background-image:none;
+			/*@editable*/background-repeat:no-repeat;
+			/*@editable*/background-position:center;
+			/*@editable*/background-size:cover;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+			/*@editable*/padding-top:0;
+			/*@editable*/padding-bottom:0;
+		}
+	/*
+	@tab Body
+	@section Body Text
+	*/
+		.bodyContainer .mcnTextContent,.bodyContainer .mcnTextContent p{
+			/*@editable*/color:#000000;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:16px;
+			/*@editable*/line-height:150%;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Body
+	@section Body Link
+	*/
+		.bodyContainer .mcnTextContent a,.bodyContainer .mcnTextContent p a{
+			/*@editable*/color:#007C89;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:underline;
+		}
+	/*
+	@tab Footer
+	@section Footer Style
+	*/
+		#templateFooter{
+			/*@editable*/background-color:#ffffff;
+			/*@editable*/background-image:none;
+			/*@editable*/background-repeat:no-repeat;
+			/*@editable*/background-position:center;
+			/*@editable*/background-size:cover;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+			/*@editable*/padding-top:5px;
+			/*@editable*/padding-bottom:24px;
+		}
+	/*
+	@tab Footer
+	@section Footer Interior Style
+	*/
+		.footerContainer{
+			/*@editable*/background-color:transparent;
+			/*@editable*/background-image:none;
+			/*@editable*/background-repeat:no-repeat;
+			/*@editable*/background-position:center;
+			/*@editable*/background-size:cover;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+			/*@editable*/padding-top:0;
+			/*@editable*/padding-bottom:0;
+		}
+	/*
+	@tab Footer
+	@section Footer Text
+	*/
+		.footerContainer .mcnTextContent,.footerContainer .mcnTextContent p{
+			/*@editable*/color:#FFFFFF;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:12px;
+			/*@editable*/line-height:150%;
+			/*@editable*/text-align:center;
+		}
+	/*
+	@tab Footer
+	@section Footer Link
+	*/
+		.footerContainer .mcnTextContent a,.footerContainer .mcnTextContent p a{
+			/*@editable*/color:#FFFFFF;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:underline;
+		}
+	@media only screen and (min-width:768px){
+		.templateContainer{
+			width:600px !important;
+		}
+	}
+	@media only screen and (max-width: 480px){
+		body,table,td,p,a,li,blockquote{
+			-webkit-text-size-adjust:none !important;
+		}
+	}
+	@media only screen and (max-width: 480px){
+		body{
+			width:100% !important;
+			min-width:100% !important;
+		}
+	}
+	@media only screen and (max-width: 480px){
+		.mcnRetinaImage{
+			max-width:100% !important;
+		}
+	}
+	@media only screen and (max-width: 480px){
+		.mcnImage{
+			width:100% !important;
+		}
+	}
+	@media only screen and (max-width: 480px){
+		.mcnCartContainer,.mcnCaptionTopContent,.mcnRecContentContainer,.mcnCaptionBottomContent,.mcnTextContentContainer,.mcnBoxedTextContentContainer,.mcnImageGroupContentContainer,.mcnCaptionLeftTextContentContainer,.mcnCaptionRightTextContentContainer,.mcnCaptionLeftImageContentContainer,.mcnCaptionRightImageContentContainer,.mcnImageCardLeftTextContentContainer,.mcnImageCardRightTextContentContainer,.mcnImageCardLeftImageContentContainer,.mcnImageCardRightImageContentContainer{
+			max-width:100% !important;
+			width:100% !important;
+		}
+	}
+	@media only screen and (max-width: 480px){
+		.mcnBoxedTextContentContainer{
+			min-width:100% !important;
+		}
+	}
+	@media only screen and (max-width: 480px){
+		.mcnImageGroupContent{
+			padding:9px !important;
+		}
+	}
+	@media only screen and (max-width: 480px){
+		.mcnCaptionLeftContentOuter .mcnTextContent,.mcnCaptionRightContentOuter .mcnTextContent{
+			padding-top:9px !important;
+		}
+	}
+	@media only screen and (max-width: 480px){
+		.mcnImageCardTopImageContent,.mcnCaptionBottomContent:last-child .mcnCaptionBottomImageContent,.mcnCaptionBlockInner .mcnCaptionTopContent:last-child .mcnTextContent{
+			padding-top:18px !important;
+		}
+	}
+	@media only screen and (max-width: 480px){
+		.mcnImageCardBottomImageContent{
+			padding-bottom:9px !important;
+		}
+	}
+	@media only screen and (max-width: 480px){
+		.mcnImageGroupBlockInner{
+			padding-top:0 !important;
+			padding-bottom:0 !important;
+		}
+	}
+	@media only screen and (max-width: 480px){
+		.mcnImageGroupBlockOuter{
+			padding-top:9px !important;
+			padding-bottom:9px !important;
+		}
+	}
+	@media only screen and (max-width: 480px){
+		.mcnTextContent,.mcnBoxedTextContentColumn{
+			padding-top:28px !important;
+			padding-right:18px !important;
+			padding-bottom:28px !important;
+			padding-left:18px !important;
+		}
+	}
+	@media only screen and (max-width: 480px){
+		.mcnImageCardLeftImageContent,.mcnImageCardRightImageContent{
+			padding-right:18px !important;
+			padding-bottom:0 !important;
+			padding-left:18px !important;
+		}
+	}
+	@media only screen and (max-width: 480px){
+		.mcpreview-image-uploader{
+			display:none !important;
+			width:100% !important;
+		}
+	}
+	@media only screen and (max-width: 480px){
+		h1{
+			/*@editable*/font-size:26px !important;
+			/*@editable*/line-height:125% !important;
+		}
+	}
+	@media only screen and (max-width: 480px){
+		h2{
+			/*@editable*/font-size:20px !important;
+			/*@editable*/line-height:125% !important;
+		}
+	}
+	@media only screen and (max-width: 480px){
+		h3{
+			/*@editable*/font-size:18px !important;
+			/*@editable*/line-height:125% !important;
+		}
+	}
+	@media only screen and (max-width: 480px){
+		h4{
+			/*@editable*/font-size:18px !important;
+			/*@editable*/line-height:150% !important;
+		}
+	}
+	@media only screen and (max-width: 480px){
+		.mcnBoxedTextContentContainer .mcnTextContent,.mcnBoxedTextContentContainer .mcnTextContent p{
+			/*@editable*/font-size:14px !important;
+			/*@editable*/line-height:150% !important;
+		}
+	}
+	@media only screen and (max-width: 480px){
+		.headerContainer .mcnTextContent,.headerContainer .mcnTextContent p{
+			/*@editable*/font-size:16px !important;
+			/*@editable*/line-height:150% !important;
+		}
+	}
+	@media only screen and (max-width: 480px){
+		.bodyContainer .mcnTextContent,.bodyContainer .mcnTextContent p{
+			/*@editable*/font-size:16px !important;
+			/*@editable*/line-height:150% !important;
+		}
+	}
+	@media only screen and (max-width: 480px){
+		.footerContainer .mcnTextContent,.footerContainer .mcnTextContent p{
+			/*@editable*/font-size:14px !important;
+			/*@editable*/line-height:150% !important;
+		}
+	}
+    </style>
+    <style type="text/css">
+    </style>
+    <style type="text/css">
+    </style>
+    <style type="text/css">
+    </style>
+    <style type="text/css">
+    </style>
+    <style type="text/css">
+    </style>
+    <style type="text/css">
+    </style>
+    <style type="text/css">
+    </style>
+    <style type="text/css">
+    </style>
+    <style type="text/css">
+    </style>
+    <style type="text/css">
+    </style>
+    <style type="text/css">
+    </style>
+    <style type="text/css">
+    </style>
+    <style type="text/css">
+    </style>
+    <style type="text/css">
+    </style>
+    <style type="text/css">
+    </style>
+    <style type="text/css">
+    </style>
+    <style type="text/css">
+    </style>
+    <style type="text/css">
+    </style>
+    <style type="text/css">
+    </style>
+    <style type="text/css">
+    </style>
+    <style type="text/css">
+    </style>
+    <style type="text/css">
+    </style>
+    <style type="text/css">
+    </style>
+    <style type="text/css">
+    </style>
+    <style type="text/css">
+    </style>
+  </head>
+  <body>
+    <!--*|IF:MC_PREVIEW_TEXT|*--><!--[if !gte mso 9]><- --><span class="mcnPreviewText" style="display:none; font-size:0px; line-height:0px; max-height:0px; max-width:0px; opacity:0; overflow:hidden; visibility:hidden; mso-hide:all;"></span><!--<![endif]--><!--*|END:IF|*-->
+    <center>
+    <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" id="bodyTable" width="100%">
+      <tbody>
+        <tr>
+          <td align="center" id="bodyCell" valign="top"><!-- BEGIN TEMPLATE // -->
+          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tbody>
+              <tr>
+                <td align="center" data-template-container="" id="templateHeader" valign="top"><!--[if (gte mso 9)|(IE)]>
+                <table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;">
+                <tr>
+                <td align="center" valign="top" width="600" style="width:600px;">
+                <![endif]-->
+                <table align="center" border="0" cellpadding="0" cellspacing="0" class="templateContainer" width="100%">
+                  <tbody>
+                    <tr>
+                      <td class="headerContainer" valign="top"><!-- LOGO IMAGE -->
+                      <table border="0" cellpadding="0" cellspacing="0" class="mcnImageBlock" style="min-width:100%;" width="100%">
+                        <tbody class="mcnImageBlockOuter">
+                          <tr>
+                            <td class="mcnImageBlockInner" style="padding:0px" valign="top">
+                            <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnImageContentContainer" style="min-width:100%;" width="100%">
+                              <tbody>
+                                <tr>
+                                  <td class="mcnImageContent" style="padding:0; text-align:center;" valign="top"><img align="middle" alt="" class="mcnImage" src="https://mcusercontent.com/c62f2fe140f97c4fcfdd5491d/images/ec555994-c0a6-8af7-1ed0-d8391dca163a.png" style="max-width: 600px; padding-bottom: 0px; vertical-align: bottom; display: inline !important; width: 600px;" /></td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <!-- END LOGO IMAGE --><!-- HERO IMAGE -->
+
+                      <table border="0" cellpadding="0" cellspacing="0" class="mcnImageBlock" style="min-width:100%;" width="100%">
+                        <tbody class="mcnImageBlockOuter">
+                          <tr>
+                            <td class="mcnImageBlockInner" style="padding:0px" valign="top">
+                            <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnImageContentContainer" style="min-width:100%;" width="100%">
+                              <tbody>
+                                <tr>
+                                  <td class="mcnImageContent" style="padding:0; text-align:center;" valign="top"><img align="middle" alt="" class="mcnImage" src="https://undergrad.usm.edu/www/images/Allie%20McGehee%20-%201.jpg" style="max-width: 600px; padding-bottom: 0px; vertical-align: bottom; width: 600px; display: inline !important;" /></td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <!-- END HERO IMAGE --></td>
+                    </tr>
+                  </tbody>
+                </table>
+                <!--[if (gte mso 9)|(IE)]>
+                </td>
+                </tr>
+                </table>
+                <![endif]--></td>
+              </tr>
+              <tr>
+                <td align="center" data-template-container="" id="templateBody" valign="top"><!--[if (gte mso 9)|(IE)]>
+                <table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;">
+                <tr>
+                <td align="center" valign="top" width="600" style="width:600px;">
+                <![endif]-->
+                <table align="center" border="0" cellpadding="0" cellspacing="0" class="templateContainer" width="100%">
+                  <tbody>
+                    <tr>
+                      <td class="bodyContainer" valign="top"><!-- BODY TEXT BLOCK -->
+                      <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="max-width:100%; min-width:100%;" width="100%">
+                        <tbody>
+                          <tr>
+                            <td class="mcnTextContent" style="padding:28px 18px;" valign="top">
+                            <h1>
+                              At Southern Miss, you're more than just a number.
+                            </h1>
+
+                            <p lang="EN-US" paraeid="{1f8a8bd0-23e9-471d-813f-3df45ec6b90b}{211}" paraid="442539053">
+                              When Allie McGehee was choosing a college, she wanted to find a smaller campus where she could grow, get involved, and be part of something bigger than herself. At Southern Miss, she found exactly that.
+                            </p>
+
+                            <p lang="EN-US" paraeid="{38a94f38-cd3e-44c8-a18f-c75e4217ddeb}{97}" paraid="1421336796">
+                              <em>"What has surprised me most about my time at Southern Miss is how connected the campus community is. No matter where I go, I always see a familiar face."</em>
+                            </p>
+
+                            <p lang="EN-US" paraeid="{9c276d3d-bf76-421e-900b-52399e4692b4}{77}" paraid="1249559781">
+                              Southern Miss is more than just a university for Allie. It's a community where she feels supported, encouraged, and connected to the people around her.
+                            </p>
+
+                            <p lang="EN-US" paraeid="{66375180-1f30-4435-aade-2083c41be886}{208}" paraid="1737779823">
+                              Through Eagle Connection, Allie's discovered how meaningful it can be to share her Southern Miss story with others. Helping future students see what makes Southern Miss special has inspired her to make the most of every opportunity here.
+                            </p>
+
+                            <p lang="EN-US" paraeid="{66375180-1f30-4435-aade-2083c41be886}{63}" paraid="654402896">
+                              Today, Allie stays involved across campus as a Joe Paul Leadership Scholar and a member of Chi Omega and the Student Government Association Freshman Council.
+                            </p>
+
+                            <p lang="EN-US" paraeid="{fd35e51c-aea2-4e38-ae8f-11b2360fcb8f}{183}" paraid="650009226">
+                              When asked to describe Southern Miss in three words, her response was simple: legacy, community, and home.
+                            </p>
+
+                            <p lang="EN-US" paraeid="{d71c4e82-a110-4e65-9d56-74ca7dc49c26}{53}" paraid="360154219">
+                              <em>"Coming to Southern Miss has been one of the best decisions I've made. In only a short amount of time, I've made amazing friendships and memories."</em>
+                            </p>
+
+                            <p lang="EN-US" paraeid="{38a94f38-cd3e-44c8-a18f-c75e4217ddeb}{118}" paraid="1287268963">
+                              Allie McGehee ’29<br />
+                              Undeclared<br />
+                              Folsum, Louisiana
+                            </p>
+                            <!-- Body copy goes here --></td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <!-- END BODY TEXT BLOCK --><!-- BOTTOM DIVIDER -->
+
+                      <table border="0" cellpadding="0" cellspacing="0" class="mcnDividerBlock" style="min-width:100%;" width="100%">
+                        <tbody class="mcnDividerBlockOuter">
+                          <tr>
+                            <td class="mcnDividerBlockInner" style="min-width:100%; padding:0 18px 0;">
+                            <table border="0" cellpadding="0" cellspacing="0" class="mcnDividerContent" style="min-width:100%; border-top:1px solid #E0E0E0;" width="100%">
+                              <tbody>
+                                <tr>
+                                  <td><span></span></td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <!-- END BOTTOM DIVIDER --></td>
+                    </tr>
+                  </tbody>
+                </table>
+                <!--[if (gte mso 9)|(IE)]>
+                </td>
+                </tr>
+                </table>
+                <![endif]--></td>
+              </tr>
+              <tr>
+                <td align="center" data-template-container="" id="templateFooter" valign="top"><!--[if (gte mso 9)|(IE)]>
+                <table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;">
+                <tr>
+                <td align="center" valign="top" width="600" style="width:600px;">
+                <![endif]-->
+                <table align="center" border="0" cellpadding="0" cellspacing="0" class="templateContainer" width="100%">
+                  <tbody>
+                    <tr>
+                      <td class="footerContainer" valign="top">
+                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                        <tbody class="mcnTextBlockOuter">
+                          <tr>
+                            <td class="mcnTextBlockInner" style="padding-top:0;" valign="top"><!--[if mso]>
+                            <table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+                            <tr>
+                            <![endif]--><!--[if mso]>
+                            <td valign="top" width="600" style="width:600px;">
+                            <![endif]-->
+                            <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="max-width:100%; min-width:100%; background-color:#ffffff;" width="100%">
+                              <tbody>
+                                <tr>
+                                  <td bgcolor="#ffffff" class="mcnTextContent" style="padding:4px 18px 9px; color:#222222; font-size:10px; background-color:#ffffff;" valign="top">
+                                  <div style="text-align:center;">
+                                    <div style="color:#222222;">
+                                      <strong>The University of Southern Mississippi</strong>
+                                    </div>
+                                    <a href="https://www.usm.edu" style="color:#222222; text-decoration:none; cursor:default; pointer-events:none;">118 College Drive, Hattiesburg, MS 39406</a>
+
+                                    <div style="margin-top:12px;">
+                                      <a href="https://www.instagram.com/discoversouthernmiss/" target="_blank"><img height="30" src="https://mcusercontent.com/c62f2fe140f97c4fcfdd5491d/images/b11de14c-015f-3e44-dfc4-318c1a75ee4a.png" style="border:0; width:30px; height:30px; margin:0 8px 0 0; display:inline-block; vertical-align:middle;" width="30" /></a><a href="https://www.tiktok.com/@officialsouthernmiss" target="_blank"><img height="30" src="https://mcusercontent.com/c62f2fe140f97c4fcfdd5491d/images/92d11c6d-79c3-4782-3155-db7199ab2140.png" style="border:0; width:30px; height:30px; margin:0; display:inline-block; vertical-align:middle;" width="30" /><br />
+                                      <br />
+                                      <span style="color:#000000;"><span style="font-size:8px;">{{Reference-ID}}</span></span></a>
+                                    </div>
+                                  </div>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <!--[if mso]>
+                            </td>
+                            <![endif]--><!--[if mso]>
+                            </tr>
+                            </table>
+                            <![endif]--></td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+                <!--[if (gte mso 9)|(IE)]>
+                </td>
+                </tr>
+                </table>
+                <![endif]--></td>
+              </tr>
+            </tbody>
+          </table>
+          <!-- // END TEMPLATE --></td>
+        </tr>
+      </tbody>
+    </table>
+    </center>
+  </body>
+</html>
